@@ -29,9 +29,11 @@ Figure 2: December Temperature Results
 ![image](https://user-images.githubusercontent.com/101227930/180963143-581b5a24-6b3a-4515-97df-ab7320366c1d.png)
 
 
+
 Surfs Up Analysis Summary
 
-The results show that temperature in June and December are warm, and most importantly, consistantly warm:
+The results show that temperature in June and December are warm, and most importantly, consistantly warm.
+
 Additional queries that you would perform to gather more weather data for June and December.
 
 * Gather precipitation data.
