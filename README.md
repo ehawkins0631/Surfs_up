@@ -20,6 +20,7 @@ The analysis of the June and December temperature profiles show the following re
 
 Figure 1: June Temperature Results
 
+![image](https://user-images.githubusercontent.com/101227930/180962903-48f1f922-8d30-4d3d-a0a2-a5a5053681d1.png)
 
 
 
