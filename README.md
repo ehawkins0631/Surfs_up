@@ -40,3 +40,13 @@ Additional queries that you would perform to gather more weather data for June a
 * Gather humidity data.
 * Gather wind data.
 * Gather cloudiness data.
+
+
+
+Contact:
+
+email: ehawkins0631@gmail.com
+
+twitter: @evahawkins3006
+
+Linkedin https://www.linkedin.com/in/eva-hawkins-a9b333147/
